@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "adcd922f-3649-4bbe-8202-15926a1e3f0b": {
+      "ProjectGuid": "adcd922f-3649-4bbe-8202-15926a1e3f0b",
+      "DisplayName": "ConsoleApplication3",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
